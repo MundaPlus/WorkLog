@@ -4,7 +4,15 @@
 
 One process serves both the API and the interface. The interface can be installed as a PWA on desktop and mobile. Each user's data lives in their own SQLite database, and the AI features can run on a local model.
 
-<!-- screenshots -->
+![Week view](screenshots/week.jpg)
+
+> Screenshots show a demo instance with sample data.
+
+| Today with a running timer | Analytics |
+|---|---|
+| ![Today view with tasks and a running timer](screenshots/today.jpg) | ![Hours by day and by client](screenshots/analytics.jpg) |
+| **Notes** | **Projects** |
+| ![Rich-text note in a nested folder](screenshots/notes.jpg) | ![Projects with budgets and logged hours](screenshots/projects.jpg) |
 
 ## Features
 
